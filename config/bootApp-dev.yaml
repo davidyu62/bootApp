@@ -5,4 +5,4 @@ spring:
     active: "dev"
 my-pay:
   money: "1000"
-  name: "my-pay1-dev"
+  name: "my-pay-dev"
