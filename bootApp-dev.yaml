@@ -4,5 +4,5 @@ spring:
   profiles:
     active: "dev"
 my-pay:
-  money: "1000"
+  money: "1234"
   name: "my-pay-dev"
