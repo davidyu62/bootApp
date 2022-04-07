@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: "bootApp dev"
-  profiles:
-    active: "dev"
-my-pay:
-  money: "1000"
-  name: "my-pay-dev"
